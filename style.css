@@ -412,9 +412,9 @@ body,html{
     align-items: center;
 }
 .contact p{
-    font-size: 18px;
+    font-size: 16px;
     font-family: sans-serif;
-    width: 390px;
+    width: 350px;
     color: #737373;
     text-align: center;
     align-items: center;
@@ -424,9 +424,8 @@ body,html{
 }
 .contact form{
     position: relative;
-    width: 400px;
-    margin: auto;
-    left: 30px;
+    width: 300px;
+    left: -10px;
 }
 .contact form input{
     font-size: 16px;
@@ -476,6 +475,7 @@ body,html{
     gap: 20px;
     height: 120px;
     color: #7C706A;
+    margin: 0;
     margin-bottom: 100px;
 }
 .footer .soc{
